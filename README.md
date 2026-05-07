@@ -1,7 +1,7 @@
 # ⚽ FIFA World Cup Qatar 2022 — Análisis de Datos
 ### Proyecto de Análisis | Excel · Power BI
 
-![Dashboard Preview](qatar2022_dashboard_preview.jpg)
+![Dashboard Preview](assets/qatar2022_dashboard_preview.jpg)
 
 ---
 
